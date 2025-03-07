@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Sneha, a passionate Software Developer experienced in MERN Stack, Java, and Spring Boot. I love building scalable web applications, writing clean code, and solving real-world problems through technology.<br><br>🚀 Tech Stack & Skills<br>💻 Languages:<br> JavaScript, NodeJs,TypeScript<br><br>🛠 Backend:<br> Node.js, Express.js<br><br>Frontend:<br>React, Next.js, Tailwind CSS<br><br>🗄 Databases:<br>MySQL, MongoDB<br><br>🔌 APIs & Tools:<br>REST APIs, Microservices, GitHub Actions
+Hi there! I'm Sneha, a passionate Software Developer experienced in MERN Stack, Java, and Spring Boot. I love building scalable web applications, writing clean code, and solving real-world problems through technology.<br><br>🚀 Tech Stack & Skills<br>💻 Languages:<br> JavaScript, NodeJs,ExpressJs,TypeScript<br><br>🛠 Backend:<br> Node.js, Express.js<br><br>Frontend:<br>HTML5,CSS,Reactjs<br><br>🗄 Databases:<br>MySQL, MongoDB<br><br>🔌 APIs & Tools:<br>REST APIs, Microservices, GitHub Actions
 
 
 ## 🌐 Socials:
